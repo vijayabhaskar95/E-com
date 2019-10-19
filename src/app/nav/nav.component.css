@@ -1,0 +1,15 @@
+.bs-example{
+    margin: 20px;
+}
+ul li a{
+    color: rgb(216, 216, 216);
+}
+ul li a:hover{
+    color: white; 
+}
+.search{
+    width: 750px;
+}
+.modal-body{
+    padding: 0%;
+}
